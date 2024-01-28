@@ -1,0 +1,1 @@
+I wanted to do multiple things with this project but couldn't make them happen. one was to use a form component.
